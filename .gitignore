@@ -1,0 +1,34 @@
+# dependencies
+**/node_modules/
+
+# next.js
+**/.next/
+**/out/
+
+# production
+**/build
+dist
+
+# debug and logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.log
+
+# test coverage
+coverage/
+
+# env files: local overrides stay private; the shared development settings are committed
+.env*
+
+# vercel
+**/.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# operating system files
+.DS_Store
+Thumbs.db
