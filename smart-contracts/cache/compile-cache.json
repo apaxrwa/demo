@@ -1,0 +1,45 @@
+{
+  "E:\\apax-demo00123\\smart-contracts\\contracts\\APXGold.sol": {
+    "jobHash": "solc-0_8_28-8c8c124f378d30a5a29c1429ae71e60daf03647f",
+    "isolated": false,
+    "compilerType": "solc",
+    "artifactPaths": [
+      "E:\\apax-demo00123\\smart-contracts\\artifacts\\contracts\\APXGold.sol\\APXGold.json"
+    ],
+    "buildInfoPath": "E:\\apax-demo00123\\smart-contracts\\artifacts\\build-info\\solc-0_8_28-8c8c124f378d30a5a29c1429ae71e60daf03647f.json",
+    "buildInfoOutputPath": "E:\\apax-demo00123\\smart-contracts\\artifacts\\build-info\\solc-0_8_28-8c8c124f378d30a5a29c1429ae71e60daf03647f.output.json",
+    "typeFilePath": "E:\\apax-demo00123\\smart-contracts\\artifacts\\contracts\\APXGold.sol\\artifacts.d.ts",
+    "wasm": false,
+    "artifactsDirectory": "E:\\apax-demo00123\\smart-contracts\\artifacts",
+    "emitsTypeDeclarations": true
+  },
+  "E:\\apax-demo00123\\smart-contracts\\contracts\\ComplianceRegistry.sol": {
+    "jobHash": "solc-0_8_28-9738adbba1b1aabdda7ad05895e456b0fddf7f8a",
+    "isolated": true,
+    "compilerType": "solc",
+    "artifactPaths": [
+      "E:\\apax-demo00123\\smart-contracts\\artifacts\\contracts\\ComplianceRegistry.sol\\ComplianceRegistry.json"
+    ],
+    "buildInfoPath": "E:\\apax-demo00123\\smart-contracts\\artifacts\\build-info\\solc-0_8_28-9738adbba1b1aabdda7ad05895e456b0fddf7f8a.json",
+    "buildInfoOutputPath": "E:\\apax-demo00123\\smart-contracts\\artifacts\\build-info\\solc-0_8_28-9738adbba1b1aabdda7ad05895e456b0fddf7f8a.output.json",
+    "typeFilePath": "E:\\apax-demo00123\\smart-contracts\\artifacts\\contracts\\ComplianceRegistry.sol\\artifacts.d.ts",
+    "wasm": false,
+    "artifactsDirectory": "E:\\apax-demo00123\\smart-contracts\\artifacts",
+    "emitsTypeDeclarations": true
+  },
+  "E:\\apax-demo00123\\smart-contracts\\contracts\\MetalToken.sol": {
+    "jobHash": "solc-0_8_28-5ecdde9e82ac77cf91911d3b12afda1b802497fd",
+    "isolated": true,
+    "compilerType": "solc",
+    "artifactPaths": [
+      "E:\\apax-demo00123\\smart-contracts\\artifacts\\contracts\\MetalToken.sol\\IComplianceRegistry.json",
+      "E:\\apax-demo00123\\smart-contracts\\artifacts\\contracts\\MetalToken.sol\\MetalToken.json"
+    ],
+    "buildInfoPath": "E:\\apax-demo00123\\smart-contracts\\artifacts\\build-info\\solc-0_8_28-5ecdde9e82ac77cf91911d3b12afda1b802497fd.json",
+    "buildInfoOutputPath": "E:\\apax-demo00123\\smart-contracts\\artifacts\\build-info\\solc-0_8_28-5ecdde9e82ac77cf91911d3b12afda1b802497fd.output.json",
+    "typeFilePath": "E:\\apax-demo00123\\smart-contracts\\artifacts\\contracts\\MetalToken.sol\\artifacts.d.ts",
+    "wasm": false,
+    "artifactsDirectory": "E:\\apax-demo00123\\smart-contracts\\artifacts",
+    "emitsTypeDeclarations": true
+  }
+}
